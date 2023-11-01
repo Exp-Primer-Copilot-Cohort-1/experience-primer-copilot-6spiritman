@@ -1,4 +1,5 @@
-// Create Web server application with Node.js
+// Create web server
+
 // 1. Create a Node.js application that listens to port 3000.
 // 2. Create an array of objects that represents comments.
 // 3. Create a route /comments that returns the array as JSON to the client.

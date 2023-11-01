@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
     // Path: member.js
     var member = {
         name: 'Member',
